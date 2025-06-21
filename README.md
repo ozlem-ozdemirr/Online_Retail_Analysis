@@ -30,7 +30,7 @@
 
 #### Each metric is scored on a scale of 1 to 5 and combined into an RFM_Score.
 
-### Customers are categorized into segments such as: Top Customers, Loyal Customers, Mid-Level Customers, Low-Value Customers. A bar chart visualizes the distribution of customers across these segments.
+#### Customers are categorized into segments such as: Top Customers, Loyal Customers, Mid-Level Customers, Low-Value Customers. A bar chart visualizes the distribution of customers across these segments.
 
 ## 5. Time-Based Sales Analysis
 ### Analyzes sales quantity trends over: Months, Weeks, Days. This helps to identify patterns in sales volume over time using time-series plots.
@@ -43,7 +43,7 @@
 
 #### - Frequent itemsets are mined based on minimum support.
 
-### Association rules are generated and evaluated based on: Support, Confidence, Lift. Rules with high lift (>1.2) are highlighted as strong associations. A scatter plot is created to visualize the relationship between support and confidence, sized by lift.
+#### Association rules are generated and evaluated based on: Support, Confidence, Lift. Rules with high lift (>1.2) are highlighted as strong associations. A scatter plot is created to visualize the relationship between support and confidence, sized by lift.
 
 ## Conclusion
 ### This project provides a comprehensive analytical workflow, including:
